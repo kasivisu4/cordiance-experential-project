@@ -29,11 +29,15 @@ The goal of this project is to get the closest possible UNSPSC code match for th
 
 
 
-## Code Details:
+## Code Details :
 
 The program to the project is written in Python language with help of Jupter lab. All the cells are in sequence order from top to bottom. Each step mentioned in the algorithm is the function in the code. At the end of the notebook we will get the output in final_result object.
 
+## Observable Custom StopWords Visualizations :
 
+We have performed word count on the Avalara File and tried to visualize the zoomable tree map for identifying the custom stop words
+
+https://observablehq.com/@kasivisu4/avalara-data-analysis
 
 ## Contributors :
 
