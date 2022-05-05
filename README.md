@@ -24,6 +24,10 @@ The goal of this project is to get the closest possible UNSPSC code match for th
 
 ![alt text](https://github.com/kasivisu4/cordiance-experential-project/blob/main/Algorithm.png?raw=true)
 
+## Documentation:
+
+https://github.com/kasivisu4/cordiance-experential-project/blob/main/Group3-Final%20Report.pdf
+
 ## Code Details:
 
 The program to the project is written in Python language with help of Jupter lab. All the cells are in sequence order from top to bottom. Each step mentioned in the algorithm is the function in the code. At the end of the notebook we will get the output in final_result object.
