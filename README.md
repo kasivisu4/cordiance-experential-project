@@ -33,8 +33,9 @@ https://github.com/kasivisu4/cordiance-experential-project/blob/main/Experential
 ## Test Cases :
 
 We created a test dataset of 30 records by manually mapping the corresponding UNSPSC code to Avalara description. Our algorithm is divided into two phases
-Phase 1(Possible Outcome): In this phase, we were able to get one possibility for each level. Out of 30 we were able to match 27 possibilities
-Phase 2: In this phase, we will get the max possibility of all the levels from phase 1. Out of 30 records we were able to match 20 records which gives us the accuracy of **66.7%**.
+
+- Phase 1(Possible Outcome): In this phase, we were able to get one possibility for each level. Out of 30 we were able to match 27 possibilities
+- Phase 2: In this phase, we will get the max possibility of all the levels from phase 1. Out of 30 records we were able to match 20 records which gives us the accuracy of **66.7%**.
 
 https://github.com/kasivisu4/cordiance-experential-project/blob/main/TestRecords.xlsx
 
