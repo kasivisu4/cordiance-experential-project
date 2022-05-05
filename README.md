@@ -2,7 +2,7 @@
 
 String Matching using Longest Common Subsequence with Words b/w two sentences
 
-## Project Description :
+## Project Description:
 
 This project is an experiential project in collaboration with the Cordiance Company. The goal of this project is to get the closest possible UNSPSC code match for the Avalara Tax description. To begin this project, we were provided with two data files: UNSPSC and Avalara.
 
@@ -20,17 +20,17 @@ Avalara file contains Avalara Tax System code, its description and additional in
 
 The goal of this project is to get the closest possible UNSPSC code match for the Avalara Tax description.
 
-## Algorithm :
+## Algorithm:
 
 ![alt text](https://github.com/kasivisu4/cordiance-experential-project/blob/main/Algorithm.png?raw=true)
 
-## Code Details :
+## Code Details:
 
 The program to the project is written in Python language with help of Jupter lab. All the cells are in sequence order from top to bottom. Each step mentioned in the algorithm is the function in the code. At the end of the notebook we will get the output in final_result object.
 
 https://github.com/kasivisu4/cordiance-experential-project/blob/main/Experential_project_code.ipynb
 
-## Test Cases :
+## Test Cases:
 
 We created a test dataset of 30 records by manually mapping the corresponding UNSPSC code to Avalara description. Our algorithm is divided into two phases
 
@@ -39,13 +39,13 @@ We created a test dataset of 30 records by manually mapping the corresponding UN
 
 https://github.com/kasivisu4/cordiance-experential-project/blob/main/TestRecords.xlsx
 
-## Observable Custom StopWords Visualizations :
+## Observable Custom StopWords Visualizations:
 
 We have performed word count on the Avalara File and tried to visualize the zoomable tree map for identifying the custom stop words
 
 https://observablehq.com/@kasivisu4/avalara-data-analysis
 
-## Contributors :
+## Contributors:
 
 Akhila Sulgante
 
