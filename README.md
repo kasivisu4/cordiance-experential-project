@@ -28,6 +28,16 @@ The goal of this project is to get the closest possible UNSPSC code match for th
 
 The program to the project is written in Python language with help of Jupter lab. All the cells are in sequence order from top to bottom. Each step mentioned in the algorithm is the function in the code. At the end of the notebook we will get the output in final_result object.
 
+https://github.com/kasivisu4/cordiance-experential-project/blob/main/Experential_project_code.ipynb
+
+## Test Cases :
+
+We created a test dataset of 30 records by manually mapping the corresponding UNSPSC code to Avalara description. Our algorithm is divided into two phases
+Phase 1(Possible Outcome): In this phase, we were able to get one possibility for each level. Out of 30 we were able to match 27 possibilities
+Phase 2: In this phase, we will get the max possibility of all the levels from phase 1. Out of 30 records we were able to match 20 records which gives us the accuracy of **66.7%**.
+
+https://github.com/kasivisu4/cordiance-experential-project/blob/main/TestRecords.xlsx
+
 ## Observable Custom StopWords Visualizations :
 
 We have performed word count on the Avalara File and tried to visualize the zoomable tree map for identifying the custom stop words
