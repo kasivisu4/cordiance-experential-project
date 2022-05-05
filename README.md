@@ -30,7 +30,7 @@ https://github.com/kasivisu4/cordiance-experential-project/blob/main/Group3-Fina
 
 ## Code Details:
 
-The program to the project is written in Python language with help of Jupter lab. All the cells are in sequence order from top to bottom. Each step mentioned in the algorithm is the function in the code. At the end of the notebook we will get the output in final_result object.
+The program to the project is written in Python language with help of Jupyter lab. All the cells are in sequence order from top to bottom. Each step mentioned in the algorithm is the function in the code. At the end of the notebook we will get the output in final_result object.
 
 https://github.com/kasivisu4/cordiance-experential-project/blob/main/Experential_project_code.ipynb
 
