@@ -1,4 +1,4 @@
-# cordiance-experential-project
+# Cordiance-experential-project
 
 String Matching using Longest Common Subsequence with Words b/w two sentences
 
