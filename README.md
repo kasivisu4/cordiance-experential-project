@@ -1,10 +1,10 @@
 # Cordiance-experential-project
 
-String Matching using Longest Common Subsequence with Words b/w two sentences
+String Matching using Longest Common Subsequence with Words between two sentences
 
 ## Project Description:
 
-This project is an experiential project in collaboration with the Cordiance Company. The goal of this project is to get the closest possible UNSPSC code match for the Avalara Tax description. To begin this project, we were provided with two data files: UNSPSC and Avalara.
+This project is an experiential Algorithm course project in collaboration with the Cordiance Company. The goal of this project is to get the closest possible UNSPSC code match for the Avalara Tax description. To begin this project, we were provided with two data files: UNSPSC and Avalara.
 
 UNSPSC file contains code to be matched and it is divided into 4 levels:
 
